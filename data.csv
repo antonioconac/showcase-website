@@ -2,7 +2,7 @@ title,description,url,image
 To-do App,A distraction-free web app to help you focus on creating and completing tasks.,https://github.com/antonioconac/3-platform-to-do-app,1.png
 Portfolio Website,A website built entirely in Python to showcase coding projects and apps.,https://github.com/antonioconac/showcase-website,2.png
 Weekly Planner,"A web app designed for planning an entire week of activities, based on day and day period.",https://github.com/antonioconac/weekly-planner,1_1.png
-PDF Templates,A script that generates PDF templates of multiple pages given some predefined guidelines.,https://pythonhow.com,3.png
+PDF Templates,A script that generates PDF templates of multiple pages given some predefined guidelines.,https://github.com/antonioconac/simple-pdf-maker/tree/main,3.png
 PDF Invoices,A script that reads invoice records from Excel files and automatically generates PDF invoices.,https://pythonhow.com,4.png
 Positive News Site,A website that gets data from a news API and uses sentiment analysis to publish only positive news.,https://pythonhow.com,5.png
 Weather AP,A REST API built with Python and Flask to serve historical weather data for various cities.,https://pythonhow.com,6.png

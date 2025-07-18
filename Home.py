@@ -45,7 +45,7 @@ with col3:
         st.write(f"{row['url']}")
 
 with col4:
-    for index, row in df[2:3].iterrows():
+    for index, row in df[2:4].iterrows():
         st.header(row["title"])
         st.write(row["description"])
         st.image("images/" + row["image"])
