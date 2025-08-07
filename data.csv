@@ -4,8 +4,9 @@ Portfolio Website,A website built entirely in Python to showcase coding projects
 Weekly Planner,"A web app designed for planning an entire week of activities, based on day and day period.",https://github.com/antonioconac/weekly-planner,1_1.png
 PDF Templates,A script that generates PDF templates of multiple pages given some predefined guidelines.,https://github.com/antonioconac/simple-pdf-maker/tree/main,3.png
 PDF Invoice Generator,A script that reads invoice records from Excel files and automatically generates PDF invoices.,https://github.com/antonioconac/excel-to-pdf-converter/tree/main,4.png
-Positive News Site,A website that gets data from a news API and uses sentiment analysis to publish only positive news.,https://pythonhow.com,5.png
-Weather AP,A REST API built with Python and Flask to serve historical weather data for various cities.,https://pythonhow.com,6.png
+Email News App,A script that takes the latest news and send them to a configured e-mail address,https://github.com/antonioconac/email-daily-news-from-api,5.png
+Weather API,A REST API built with Python and Flask to serve historical weather data for various cities.,https://github.com/antonioconac/weather-data-api,6.png
+Weather Forecast Dashboard,"A website that uses an API to display for the following days, either a diagram with the temperatures or the sky conditions",https://github.com/antonioconac/weather-forecast-dashboard,6_1.png
 Download Cleane,A script that monitors the Downloads folder and deletes old files keeping the folder clean.,https://pythonhow.com,7.png
 Tour Scraper,A program that checks a music band's website and sends an email when there are new tours.,https://pythonhow.com,8.png
 Helper Chatbot,A chatbot that knows about a specific topic and answers questions regarding that topic.tA chatbot that knows about a specific topic and answers questions regarding that topic.,https://pythonhow.com,9.png
